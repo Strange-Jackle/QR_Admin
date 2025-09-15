@@ -1,3 +1,10 @@
+## Point To be noted
+qr_decrypter is a flutter android app so open it accordingly after cloning the repo
+
+Also look after the private key (same hovi joiye web ane app ma)
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
